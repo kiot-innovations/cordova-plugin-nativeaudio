@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-nativeaudio",
+  "name": "kiot-cordova-plugin-nativeaudio",
   "version": "3.1.1",
   "description": "Cordova/PhoneGap Plugin for low latency Native Audio Playback, must have for HTML5 games",
   "cordova": {
-    "id": "cordova-plugin-nativeaudio",
+    "id": "kiot-cordova-plugin-nativeaudio",
     "platforms": [
       "android",
       "ios"
